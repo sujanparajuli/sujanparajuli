@@ -1,4 +1,4 @@
-<img src="https://sujanparajuli.github.io/assets/profile-programmer.png" width="175" align="right" alt="Black-and-white programmer illustration">
+
 
 # Sujan Parajuli
 
