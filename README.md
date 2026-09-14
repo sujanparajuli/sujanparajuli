@@ -4,7 +4,7 @@
 
 Computer Science and Mathematics student at **Norwich University** working across machine learning, statistics, financial data, and combinatorics.
 
-[Portfolio](https://sujanparajuli.github.io) · [Résumé](https://sujanparajuli.github.io/assets/Sujan-Parajuli-Resume.pdf) · [LinkedIn]([https://www.linkedin.com/in/sujan-parajuli/]) · [Email](mailto:sparaju1@norwich.edu)
+[Portfolio](https://sujanparajuli.github.io) · [Résumé](https://sujanparajuli.github.io/assets/Sujan-Parajuli-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/sujan-parajuli-618478260/) · [Email](mailto:sparaju1@norwich.edu)
 
 ## Current focus
 
